@@ -15,3 +15,5 @@ public class PayService {
         }
     }
 }
+
+// OCP에 기반하여 핵심적인 기능을 하는 PayService는 최대한 변경이 없도록 설계해야 함
