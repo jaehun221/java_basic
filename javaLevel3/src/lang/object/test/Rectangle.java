@@ -1,7 +1,5 @@
 package lang.object.test;
 
-import java.util.Objects;
-
 public class Rectangle {
 
     private int width;
@@ -27,4 +25,13 @@ public class Rectangle {
                 ", height=" + height +
                 '}';
     }
+
+
+    //    @Override
+//    public String toString() {
+//        return "Rectangle{" +
+//                "width=" + width +
+//                ", height=" + height +
+//                '}';
+//    }
 }

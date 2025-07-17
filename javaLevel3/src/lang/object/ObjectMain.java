@@ -8,5 +8,7 @@ public class ObjectMain {
 
 //      toString()은 Object 클래스의 메서드
         System.out.println(child.toString());
+
+
     }
 }
