@@ -3,7 +3,7 @@
 javalevel3 폴더 구조  
 
 javalevel3  
-├── access              # 접근 제어자 (public, default, protected, private )
+├── access              # 접근 제어자 (public, default, protected, private )  
 ├── collection/array    # 배열 및 컬렉션 활용  
 ├── construct           # 생성자(constructor)    
 ├── enumeration         # 열거형(enum)    
